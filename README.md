@@ -1,16 +1,11 @@
-# themegen
+# Material 3 Tailwind Color Variable Generator
+![NVIDIA_Share_iFjlTsW6Jn](https://github.com/flyncx/material3_tailwind_color_gen/assets/77253628/20b906dd-4929-46c6-aa30-2afc489b434d)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to use
+1. Select image from your computer to be used as source color.
+2. Copy the light and dark variables into your css file
+3. Define your custom color on tailwind configuration file [by following this guide](https://tailwindcss.com/docs/customizing-colors#using-css-variables)
+4. That's it, feature request are welcome
+ 
+## Platform Support
+Guaranteed to work on Windows, other platform should work (not tested).
